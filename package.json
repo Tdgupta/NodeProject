@@ -1,0 +1,19 @@
+{
+  "name": "filesystem",
+  "version": "1.0.0",
+  "description": "dynamic file name entry",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tdgupta/NodeProject.git"
+  },
+  "author": "Trisha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tdgupta/NodeProject/issues"
+  },
+  "homepage": "https://github.com/Tdgupta/NodeProject#readme"
+}
