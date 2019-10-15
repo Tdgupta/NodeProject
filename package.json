@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Tdgupta/NodeProject/issues"
   },
-  "homepage": "https://github.com/Tdgupta/NodeProject#readme"
+  "homepage": "https://github.com/Tdgupta/NodeProject#readme",
+  "dependencies": {
+    "yargs": "^14.2.0"
+  }
 }
